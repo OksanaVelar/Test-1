@@ -1,0 +1,15 @@
+/Users/oksana/Documents/For_Github_study/Test-1/obj/Debug/net6.0/Test-1.csproj.AssemblyReference.cache
+/Users/oksana/Documents/For_Github_study/Test-1/obj/Debug/net6.0/Test-1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oksana/Documents/For_Github_study/Test-1/obj/Debug/net6.0/Test-1.AssemblyInfoInputs.cache
+/Users/oksana/Documents/For_Github_study/Test-1/obj/Debug/net6.0/Test-1.AssemblyInfo.cs
+/Users/oksana/Documents/For_Github_study/Test-1/obj/Debug/net6.0/Test-1.csproj.CoreCompileInputs.cache
+/Users/oksana/Documents/For_Github_study/Test-1/bin/Debug/net6.0/Test-1
+/Users/oksana/Documents/For_Github_study/Test-1/bin/Debug/net6.0/Test-1.deps.json
+/Users/oksana/Documents/For_Github_study/Test-1/bin/Debug/net6.0/Test-1.runtimeconfig.json
+/Users/oksana/Documents/For_Github_study/Test-1/bin/Debug/net6.0/Test-1.dll
+/Users/oksana/Documents/For_Github_study/Test-1/bin/Debug/net6.0/Test-1.pdb
+/Users/oksana/Documents/For_Github_study/Test-1/obj/Debug/net6.0/Test-1.dll
+/Users/oksana/Documents/For_Github_study/Test-1/obj/Debug/net6.0/refint/Test-1.dll
+/Users/oksana/Documents/For_Github_study/Test-1/obj/Debug/net6.0/Test-1.pdb
+/Users/oksana/Documents/For_Github_study/Test-1/obj/Debug/net6.0/Test-1.genruntimeconfig.cache
+/Users/oksana/Documents/For_Github_study/Test-1/obj/Debug/net6.0/ref/Test-1.dll
