@@ -4,7 +4,7 @@ string text = "Моя первая контрольная в GeekBrains";
 string[] subs = text.Split(" ");
 foreach (var sub in subs)
 {
-    //Console.WriteLine($"Длина элемента массива {sub} = {sub.Length}");
+    Console.WriteLine($"Длина элемента массива {sub} = {sub.Length}");
     //Console.WriteLine(sub.Length);
     
 }
