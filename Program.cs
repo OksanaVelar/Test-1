@@ -1,15 +1,29 @@
 ﻿// Необходимо написать программу, которая из имеющегося массива строк формирует массив из строк,
-// формирует массив из строк, длина которых меньше или равна 3 символам
-string text = "Моя первая контрольная в GeekBrains";
-string[] subs = text.Split(" ");
-foreach (var sub in subs)
+// длина которых меньше или равна 3 символам
+string[] text = { "Моя", "первая", "контрольная", "работа", "в", "GeekBrains" };
+string f;
+Console.WriteLine("Исходный массив строк: ");
+for (int i = 0; i < text.Length; i++)
 {
-    Console.WriteLine($"Длина элемента массива {sub} = {sub.Length}");
-    //Console.WriteLine(sub.Length);
-    
+    f = text[i];
+    Console.WriteLine(" " + " " + " " + f + " ");
 }
-// text = text.Replace ("первая", " ");
-// text = text.Replace ("контрольная", " ");
-// text = text.Replace ("GeekBrains", " ");
-// Console.WriteLine(text);
+Console.WriteLine("_______");
+Console.WriteLine();
+Console.Write("Сформированный массив строк: ");
+void Sort(string[] text)
+{
+    string k;
+    for (int i = 0; i < text.Length; i++)
+    {
+        k = text[i];
 
+        if (k.Length > 3)
+        {
+            k = " ";
+        }
+        Console.Write(k + " ");
+    }
+}
+
+Sort(text);
